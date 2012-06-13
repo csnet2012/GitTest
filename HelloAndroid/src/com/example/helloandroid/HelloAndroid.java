@@ -6,6 +6,7 @@ import android.os.Bundle;
 public class HelloAndroid extends Activity {
     /** Called when the activity is first created. */
 	// Collaborator added this comment
+	// Originator added this response comment later
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
